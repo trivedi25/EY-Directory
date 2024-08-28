@@ -1,4 +1,4 @@
-Frontend file: 
+# Frontend file: 
 App.py is a flask application that loads the html frontend and receives data from the "/submit" API endpoint. 
 
 frontend.html uses HTML and Bootstrap to create a UI for the web application and design it. It also uses Javascript to send data to an API endpoint.
