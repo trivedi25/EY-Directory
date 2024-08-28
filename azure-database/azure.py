@@ -9,8 +9,8 @@ connection_string = (
     'DRIVER={ODBC Driver 17 for SQL Server};'
     'SERVER=rahultrivediproject.database.windows.net;'
     'DATABASE=azure_sql_project;'
-    'UID=bruno;'
-    'PWD=Rahulanand3942'
+    'UID=;'
+    'PWD='
 )
 
 # Connect to the database
