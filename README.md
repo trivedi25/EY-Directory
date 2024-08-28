@@ -1,7 +1,7 @@
 ## Frontend file: 
 App.py is a flask application that loads the html frontend and receives data from the "/submit" API endpoint. 
 
-frontend.html uses HTML and Bootstrap to create a UI for the web application and design it. It also uses Javascript to send data to an API endpoint.
+Frontend.html uses HTML and Bootstrap to create a UI for the web application and design it. It also uses Javascript to send data to an API endpoint.
 
 ## Middleware: 
 Chatbot.py uses Langchain and GPT 3.5 turbo engine to create a helpful chatbot that can respond to the users prompts. A persona has been given to the chatbot to appropriately reply to the prompts.
