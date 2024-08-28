@@ -4,7 +4,7 @@ import getpass
 import os
 
 
-os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_API_KEY"] = "xyz"
 
 from langchain_openai import ChatOpenAI
 
